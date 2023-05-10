@@ -1,8 +1,7 @@
 
 
+![qpFBbmO](https://github.com/selinpir/selinpir/assets/113732977/bc6b6dde-c592-415b-85d3-01852c2c185b)
 
-
-https://github.com/selinpir/selinpir/assets/113732977/3ec1a8a8-9847-46d1-bfc0-fdfa71afe139
 
 
 
