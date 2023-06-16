@@ -2,7 +2,7 @@
 
 ![qpFBbmO](https://github.com/selinpir/selinpir/assets/113732977/bc6b6dde-c592-415b-85d3-01852c2c185b)
 
-I am Selin Pir. I am a first year Management Information Systems student at the university. I want to try everything I can in my software journey. I will be sharing with you the knowledge I have gained on this journey and the projects I have created. One of the areas I want to work in is Artificial Intelligence and I hope I can give a product to the service of humanity. Apart from this, I am also working in this field by relying on my design skills while developing myself in the field of Back End.
+I am Selin Pir. I am a first year Management Information Systems student. I want to try everything I can in my software journey. I will be sharing with you the knowledge I have gained and the projects I have created on this journey. One of the areas I want to work in is Artificial Intelligence and I hope I can give a product to the service of humanity. Apart from that, while developing myself in the field of Back End, I am also examining the front end field by relying on my design skills. 
 
 
 # 💻 Tech Stack:
