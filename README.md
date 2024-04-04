@@ -4,8 +4,6 @@
 ![qpFBbmO](https://github.com/selinpir/selinpir/assets/113732977/bc6b6dde-c592-415b-85d3-01852c2c185b)
 
 
-senin dünyan dolu diyor yalan dolan, insanların içinde hep menfaat falan
-onların kalbi sadece kan pompalar, benimkinde ise renkler çocuklar falan
 
 
 
