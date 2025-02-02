@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ec9203ad-10b5-475f-b646-174e49ca6256)
 
 # 💫 About Me:
 Hi there! 👋<br><br>I'm Selin, a data analyst candidate currently focused on honing my skills in SQL and Python. My GitHub is where I document my journey as I explore the world of data analytics, one project at a time.<br><br>
