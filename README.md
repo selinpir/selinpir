@@ -9,6 +9,8 @@ I’m actively trying to improve myself in **Data Science**, but unfortunately, 
 
 While I may not have mastered every tool or language taught at school, I’m confident in my ability to learn deeply and quickly when I’m given the chance to actually work with them.
 
+![220d298a83f8d8cbaffeed86b13a78dc](https://github.com/user-attachments/assets/63d19c7b-8c8d-4d78-9ae5-f4a9e0d88a95)
+
 ## 🧰 Technologies & Tools
 - **Programming Languages:** C, C#, Python  
 - **Web Development:** Django, HTML, CSS(feel like the eggs of web development: even if you can't cook, you can at least cook eggs.)
