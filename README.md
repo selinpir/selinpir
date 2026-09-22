@@ -20,7 +20,7 @@
 ## 🌿 biraz benden
 
 ```text
-🎓 Yönetim Bilişim Sistemleri mezunuyum
+🎓 Pamukkale Üniversitesi Yönetim Bilişim Sistemleri mezunuyum (2022-2026) (GNO: 3.10)
 🏢 Ecogreen Enerji Holding'de SAP IT stajı yaptım
 💻 .NET, JavaScript, Python ve SQL ile projeler geliştiriyorum
 📊 Veri analizi, makine öğrenmesi ve NLP ile ilgileniyorum
